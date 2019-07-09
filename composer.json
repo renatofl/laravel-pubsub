@@ -1,5 +1,5 @@
 {
-  "name": "superbalist/laravel-pubsub",
+  "name": "renatofl/laravel-pubsub",
   "description": "A Pub-Sub abstraction for Laravel",
   "license": "MIT",
   "authors": [
@@ -29,10 +29,10 @@
     },
     "laravel": {
       "providers": [
-          "Superbalist\\LaravelPubSub\\PubSubServiceProvider"
+          "Superbalist\\LaravelPubSub\\PubSubServiceProvider\\"
       ],
       "aliases": {
-          "PubSub": "Superbalist\\LaravelPubSub\\PubSubFacade"
+          "PubSub": "Superbalist\\LaravelPubSub\\PubSubFacade\\"
       }
   }
   },
